@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/backstage-skupper-demo/project-repo
+    repoURL: https://github.com/ansonmez/project-repo
     targetRevision: master
     path: app-chart
   destination:
