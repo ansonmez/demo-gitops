@@ -158,7 +158,7 @@ backstage:
     #         target: https://github.com/backstage-skupper-demo/backstage-catalog/blob/master/catalog-info.yaml
   ingress:
     enabled: true
-    host: backstage.apps.test111.anillocal.com
+    host: backstage.apps.snomgm.anillocal.com
     annotations:
       route.openshift.io/termination: "edge"
   
