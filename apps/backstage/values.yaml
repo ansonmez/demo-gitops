@@ -126,6 +126,10 @@ backstage:
             target: https://github.com/ansonmez/backstage-catalog/blob/master/templates/new-project/new-project.yaml
           - type: url
             target: https://github.com/ansonmez/backstage-catalog/blob/master/templates/new-site/new-site.yaml
+          - type: url
+            target: https://github.com/ansonmez/backstage-catalog/blob/master/templates/new-baremetal-openshift/new-baremetal-openshift.yaml
+          - type: url
+            target: https://github.com/ansonmez/backstage-catalog/blob/master/templates/new-argocd-openshift/new-baremetal-openshift.yaml
         providers:
           github:
             wildcardProviderId:
